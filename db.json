@@ -2,15 +2,15 @@
   "agent_feed": [
     {
       "id": 1,
-      "agent_id": "9ebb88b9-ace7-4254-adc0-49851cc30c1a",
+      "user_id": "9ebb88b9-ace7-4254-adc0-49851cc30c1a",
       "sort_order": 1,
-      "occurred_at_key": 1,
+      "occurred_at_key": 20210520,
       "card_type": "lead",
       "scope": "agent",
       "data": {
         "lead_id": "f431732f-af7e-4ff9-af5d-f0a8466c717d",
         "account_name": "Example Name",
-        "occurred_at": 1621527077271,
+        "occurred_at": "2021-05-20 13:48:23",
         "lead_url": "https://example.com/lead",
         "tags": [
           { "color": "#FF0000", "text": "tag1" },
@@ -20,14 +20,14 @@
     },
     {
       "id": 2,
-      "agent_id": "63d1c407-2ce2-4151-9d63-c97ed1fac07b",
+      "user_id": "63d1c407-2ce2-4151-9d63-c97ed1fac07b",
       "sort_order": 2,
-      "occurred_at_key": 1,
+      "occurred_at_key": 20210520,
       "card_type": "policy",
       "scope": "global",
       "data": {
         "policy_id": "f2440159-26bd-443f-b897-ef710be850a0",
-        "occurred_at": 1621527077271,
+        "occurred_at": "2021-05-20 13:48:23",
         "policy_status": "policy status text",
         "tags": [
           { "color": "#FF0000", "text": "tag1" },
@@ -37,11 +37,11 @@
     },
     {
       "id": 3,
-      "agent_id": "6475f437-3f5d-46a8-b728-c5979c73158e",
+      "user_id": "6475f437-3f5d-46a8-b728-c5979c73158e",
       "sort_order": 3,
-      "occurred_at_key": 1,
+      "occurred_at_key": 20210520,
       "card_type": "info",
-      "scope": "agent",
+      "scope": "global",
       "data": {
         "info_id": "af9a2e03-b698-47de-8b91-2841c51cca51",
         "header": "Info header",
