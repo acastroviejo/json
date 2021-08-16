@@ -16,5 +16,11 @@
         }
       ]
     }
+  },
+  "angel": {
+    "slug": "angel",
+    "email": "angel@medicare10.com",
+    "firstName": "Angel",
+    "lastName": "Castroviejo"
   }
 }
