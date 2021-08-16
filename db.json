@@ -1,8 +1,18 @@
 {
-  "angel": {
-    "name": "Angel Castroviejo"
-  },
-  "patrick": {
-    "name": "Patrick Smith"
+  "agents": {
+    "data": {
+      "mrkt_agent_profiles": [
+        {
+          "email": "angel@medicare10.com",
+          "firstName": "Angel",
+          "lastName": "Castroviejo"
+        },
+        {
+          "email": "patrick@medicare10.com",
+          "firstName": "Patrick",
+          "lastName": "Smith"
+        }
+      ]
+    }
   }
 }
