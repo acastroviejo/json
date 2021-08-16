@@ -3,11 +3,13 @@
     "data": {
       "mrkt_agent_profiles": [
         {
+          "slug": "angel",
           "email": "angel@medicare10.com",
           "firstName": "Angel",
           "lastName": "Castroviejo"
         },
         {
+          "slug": "patrick",
           "email": "patrick@medicare10.com",
           "firstName": "Patrick",
           "lastName": "Smith"
