@@ -22,5 +22,11 @@
     "email": "angel@medicare10.com",
     "firstName": "Angel",
     "lastName": "Castroviejo"
+  },
+  "patrick": {
+    "slug": "patrick",
+    "email": "patrick@medicare10.com",
+    "firstName": "Patrick",
+    "lastName": "Smith"
   }
 }
