@@ -3,30 +3,50 @@
     "data": {
       "mrkt_agent_profiles": [
         {
-          "slug": "angel",
-          "email": "angel@medicare10.com",
+          "id": "angel",
           "firstName": "Angel",
-          "lastName": "Castroviejo"
+          "lastName": "Castroviejo",
+          "email": "angel@medicare10.com",
+          "phone": "+13834843042",
+          "description": "Hi, I'm Angel, and I'd love to help you find the best plan for you.",
+          "carriers": ["cigna", "aetna", "anthem"],
+          "products": ["MA", "MS"],
+          "states": ["MA", "CA", "OH", "NY"]
         },
         {
-          "slug": "patrick",
-          "email": "patrick@medicare10.com",
+          "id": "patrick",
           "firstName": "Patrick",
-          "lastName": "Smith"
+          "lastName": "Smith",
+          "email": "patrick@medicare10.com",
+          "phone": "+13834843042",
+          "description": "Hi, I'm Patrick, and I'd love to help you find the best plan for you.",
+          "carriers": ["cigna", "aetna", "anthem"],
+          "products": ["MA", "MS"],
+          "states": ["MA", "CA", "OH", "NY"]
         }
       ]
     }
   },
   "angel": {
-    "slug": "angel",
-    "email": "angel@medicare10.com",
+    "id": "angel",
     "firstName": "Angel",
-    "lastName": "Castroviejo"
+    "lastName": "Castroviejo",
+    "email": "angel@medicare10.com",
+    "phone": "+13834843042",
+    "description": "Hi, I'm Angel, and I'd love to help you find the best plan for you.",
+    "carriers": ["cigna", "aetna", "anthem"],
+    "products": ["MA", "MS"],
+    "states": ["MA", "CA", "OH", "NY"]
   },
   "patrick": {
-    "slug": "patrick",
-    "email": "patrick@medicare10.com",
+    "id": "patrick",
     "firstName": "Patrick",
-    "lastName": "Smith"
+    "lastName": "Smith",
+    "email": "patrick@medicare10.com",
+    "phone": "+13834843042",
+    "description": "Hi, I'm Patrick, and I'd love to help you find the best plan for you.",
+    "carriers": ["cigna", "aetna", "anthem"],
+    "products": ["MA", "MS"],
+    "states": ["MA", "CA", "OH", "NY"]
   }
 }
