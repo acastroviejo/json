@@ -1,52 +1,9 @@
 {
-  "agents": {
-    "data": {
-      "mrkt_agent_profiles": [
-        {
-          "id": "angel",
-          "firstName": "Angel",
-          "lastName": "Castroviejo",
-          "email": "angel@medicare10.com",
-          "phone": "+13834843042",
-          "description": "Hi, I'm Angel, and I'd love to help you find the best plan for you.",
-          "carriers": ["cigna", "aetna", "anthem"],
-          "products": ["MA", "MS"],
-          "states": ["MA", "CA", "OH", "NY"]
-        },
-        {
-          "id": "patrick",
-          "firstName": "Patrick",
-          "lastName": "Smith",
-          "email": "patrick@medicare10.com",
-          "phone": "+13834843042",
-          "description": "Hi, I'm Patrick, and I'd love to help you find the best plan for you.",
-          "carriers": ["cigna", "aetna", "anthem"],
-          "products": ["MA", "MS"],
-          "states": ["MA", "CA", "OH", "NY"]
-        }
-      ]
+  "orders": [
+    {
+      "id": "aaaaaaaaaaaaaaaaaaaaaaaa",
+      "datePaid": "2022-03-01T00:00:00.000Z",
+      "paid": true
     }
-  },
-  "angel": {
-    "id": "angel",
-    "firstName": "Angel",
-    "lastName": "Castroviejo",
-    "email": "angel@medicare10.com",
-    "phone": "+13834843042",
-    "description": "Hi, I'm Angel, and I'd love to help you find the best plan for you.",
-    "carriers": ["cigna", "aetna", "anthem"],
-    "products": ["MA", "MS"],
-    "states": ["MA", "CA", "OH", "NY"]
-  },
-  "patrick": {
-    "id": "patrick",
-    "firstName": "Patrick",
-    "lastName": "Smith",
-    "email": "patrick@medicare10.com",
-    "phone": "+13834843042",
-    "description": "Hi, I'm Patrick, and I'd love to help you find the best plan for you.",
-    "carriers": ["cigna", "aetna", "anthem"],
-    "products": ["MA", "MS"],
-    "states": ["MA", "CA", "OH", "NY"]
-  }
+  ]
 }
